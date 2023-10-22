@@ -7,7 +7,7 @@ import {
   Footer,
   SpecialOffers,
   Subscribe,
-} from "./components/sections";
+} from "./sections";
 
 const App = () => {
   return (
